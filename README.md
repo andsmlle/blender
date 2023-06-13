@@ -1,7 +1,7 @@
 # blender
 ## Программа
 - **Blender 3.4**
-# Зарядное устройство для смартфона в Blender
+# Blender
 
 <p align="center">
 <img src="logo.png" width="300" height="300" alt=""><br>
