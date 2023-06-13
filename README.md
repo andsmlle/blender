@@ -3,7 +3,7 @@
 - **Blender 3.4**
 # Зарядное устройство для смартфона в Blender
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Firecommend.ru%2Fcontent%2Fkompyuternaya-programma-blender-3d&psig=AOvVaw1FtWim-DVyccF5gzWmp9Zd&ust=1686727120635000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCH8Kfav_8CFQAAAAAdAAAAABAE)
+![Logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Firecommend.ru%2Fcontent%2Fkompyuternaya-programma-blender-3d&psig=AOvVaw1FtWim-DVyccF5gzWmp9Zd&ust=1686727120635000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCH8Kfav_8CFQAAAAAdAAAAABAE](https://irecommend.ru/sites/default/files/product-images/1789859/qa7sRtm3Lq6Wc4qDuctCQ.png)
 Это проект по созданию трехмерной модели зарядного устройства для смартфона в Blender.
 
 ## Как использовать
