@@ -35,5 +35,5 @@ Blender 3D – бесплатный программный продукт, пр�
 
 ## Автор
 
-* VK: <a href="[https://vk.com/doobada](https://vk.com/ismail2003)">Алиев Исмаил</a>
+* VK: <a href="https://vk.com/ismail2003">Алиев Исмаил</a>
 * mail: aliev.ismail.2003@gmail.com
