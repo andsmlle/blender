@@ -4,8 +4,8 @@
 # Зарядное устройство для смартфона в Blender
 
 <p align="center">
-<img src="logo.png" width="200" height="200" alt=""><br>
-<i>Логотип програмного обеспечения Blender</i>
+<img src="logo.png" width="300" height="300" alt=""><br>
+<i>Логотип программного обеспечения Blender</i>
 </p>  
 Это проект по созданию трехмерной модели зарядного устройства для смартфона в Blender.
 
